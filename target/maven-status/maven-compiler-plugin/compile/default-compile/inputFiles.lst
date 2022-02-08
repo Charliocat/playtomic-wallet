@@ -1,0 +1,13 @@
+/home/carles/develop/playtomic/src/main/java/com/playtomic/tests/wallet/service/StripeService.java
+/home/carles/develop/playtomic/src/main/java/com/playtomic/tests/wallet/entities/Wallet.java
+/home/carles/develop/playtomic/src/main/java/com/playtomic/tests/wallet/WalletApplication.java
+/home/carles/develop/playtomic/src/main/java/com/playtomic/tests/wallet/service/StripeServiceException.java
+/home/carles/develop/playtomic/src/main/java/com/playtomic/tests/wallet/api/dto/WalletDTO.java
+/home/carles/develop/playtomic/src/main/java/com/playtomic/tests/wallet/repository/WalletRepository.java
+/home/carles/develop/playtomic/src/main/java/com/playtomic/tests/wallet/repository/Repository.java
+/home/carles/develop/playtomic/src/main/java/com/playtomic/tests/wallet/service/WalletServiceImpl.java
+/home/carles/develop/playtomic/src/main/java/com/playtomic/tests/wallet/service/WalletService.java
+/home/carles/develop/playtomic/src/main/java/com/playtomic/tests/wallet/repository/WalletException.java
+/home/carles/develop/playtomic/src/main/java/com/playtomic/tests/wallet/service/StripeRestTemplateResponseErrorHandler.java
+/home/carles/develop/playtomic/src/main/java/com/playtomic/tests/wallet/api/WalletController.java
+/home/carles/develop/playtomic/src/main/java/com/playtomic/tests/wallet/service/StripeAmountTooSmallException.java
